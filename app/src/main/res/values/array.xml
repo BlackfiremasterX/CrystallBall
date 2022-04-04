@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="random_predictions">
+        <item>Никита какает</item>
+        <item>Все будет хорошо!</item>
+        <item>Вас ждут несчастья</item>
+        <item>Жди бабки на свой счет</item>
+        <item>Плюс Сникерс</item>
+        <item>Черная кошка перебежала дорогу</item>
+        <item>Чорный человек улыбнулся в темноте (Хе-хе)</item>
+        <item>Вы опоздаете на автобус</item>
+    </string-array>
+</resources>
